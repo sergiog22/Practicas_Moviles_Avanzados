@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calificacion</string>
+    <string name="introduce_tercera_calificacion">Introduce tercera calificación</string>
+    <string name="desempenio_del_alumno">Desempeño del alumno</string>
+    <string name="promedio_del_alumno">Promedio del alumno</string>
+    <string name="calcular_promedio">Calcular Promedio</string>
+    <string name="introduce_segunda_calificacion">Introduce segunda calificación</string>
+    <string name="introduce_cuarta_calificacion">Introduce cuarta calificación</string>
+    <string name="introduce_quinta_calificacion">Introduce quinta calificación</string>
+    <string name="introduce_primera_calificacion">Introduce primera calificación</string>
+    <string name="todo">TODO</string>
+</resources>
